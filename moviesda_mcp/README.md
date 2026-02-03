@@ -17,7 +17,7 @@ pip install -r requirements.txt
 python server.py
 ``` 
 
-Or with `uv`:
+Or with `uv`: 
 
 ```bash
 uv run server.py
