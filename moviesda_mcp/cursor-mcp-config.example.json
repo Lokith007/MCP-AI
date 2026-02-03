@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "moviesda": {
+      "command": "python",
+      "args": ["C:/Users/ASUS VIVOBOOK/Documents/projects and assg/mcp-demo/moviesda_mcp/server.py"],
+      "cwd": "C:/Users/ASUS VIVOBOOK/Documents/projects and assg/mcp-demo/moviesda_mcp"
+    }
+  }
+}
